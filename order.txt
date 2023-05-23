@@ -1,0 +1,25 @@
+
+scr
+    controller
+        to controll the route 
+
+    database
+        creates the connection with the database
+
+    middlewares
+        to deal with errors
+
+    models
+        to make the requests
+
+    routes
+        first route
+
+    services 
+
+
+    utils   
+        jwt...
+
+
+        

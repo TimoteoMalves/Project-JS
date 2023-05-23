@@ -1,0 +1,2 @@
+
+- O sistema deve fornecer recursos de pesquisa para encontrar um curso pelo nome, que mostre os dados do curso, os dados do professor deste curso e os dados de todas pessoas matriculadas neste curso.
